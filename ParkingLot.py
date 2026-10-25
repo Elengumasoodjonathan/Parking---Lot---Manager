@@ -105,22 +105,7 @@ def main():
 
 main()
 
-#park = parking.park_car()
-#remove = parking.remove_car()
-#show = parking.show_parked_car()
-#availible = parking.park_car()
-
-
-
-
-
-
-
-
-
-#if user in self.parking_spaces.values():
-#               print(f'{user} is already parked here')
-        
+# Display the menu - update        
 
 
         
