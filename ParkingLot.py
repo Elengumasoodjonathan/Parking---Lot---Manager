@@ -68,6 +68,7 @@ class ParkingLot:
 
 
 
+# Display the parking lot menu
 
 def main():
         parking = ParkingLot()
